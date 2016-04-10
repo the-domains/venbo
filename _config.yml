@@ -2,6 +2,7 @@ name: venbo
 favicon: null
 layout_spectrum: 0.7282961346209049
 typography_spectrum: 0.11542
+title: 'Venbo.de '
 cta:
   domain: null
   bucket: null
