@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Der erste Tag mit The Grid. Ich habe eine Einladung zum geschlossenen Beta Test bekommen. Yeah. Bisher ist hier noch alles sehr Leer und steril. Dann werden wir the grid mal mit Inhalt füttern und schauen was passiert. ;)
-datePublished: '2016-04-10T07:25:18.594Z'
-dateModified: '2016-04-10T07:24:40.557Z'
+datePublished: '2016-04-10T07:27:30.772Z'
+dateModified: '2016-04-10T07:25:20.864Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-10-der-erste-tag-mit-the-grid-ich-habe-eine-einladung-zum-gesc.md
