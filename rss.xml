@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[venbo]]></title>
-        <description><![CDATA[venbo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Venbo.de ]]></title>
+        <description><![CDATA[Venbo.de ]]></description>
+        <link>https://thegrid.ai/venbo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Apr 2016 07:17:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Apr 2016 07:25:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/venbo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/364f377c-fb72-406b-8df1-dbfdeb09b929.jpg">]]></description>
-            <link>undefinedder-erste-tag-mit-the-grid-ich-habe-eine-einladung-zum-gesc/index.html</link>
+            <link>https://thegrid.ai/venbo/der-erste-tag-mit-the-grid-ich-habe-eine-einladung-zum-gesc/index.html</link>
             <guid isPermaLink="false">b5d219f1-9c00-44a2-aa51-546a8b7d4fe4</guid>
-            <pubDate>Sun, 10 Apr 2016 07:17:15 GMT</pubDate>
+            <pubDate>Sun, 10 Apr 2016 07:25:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
