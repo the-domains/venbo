@@ -1,0 +1,28 @@
+name: venbo
+favicon: null
+layout_spectrum: 0.7282961346209049
+typography_spectrum: 0.210538225248456
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9753620272967964
+  lightness: 0.7456320750061423
+  saturation: 0.8100560209713876
+  rhythmicContrast: 0.28645462775602937
+purpose: []
